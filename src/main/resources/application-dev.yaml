@@ -9,7 +9,7 @@ spring:
           uri: https://github.com/Ricardo-Tonietti/ead-config-server-repo
           default-label: master
           username: ricardo-tonietti
-          password: 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
+          password: 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
 
 ead:
   configServer:
